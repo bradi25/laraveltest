@@ -1,5 +1,8 @@
 DEPLOY SERVER
 
+Install Docker on server
+and Install Docker compose
+
 1 . clone dari github
 git clone https://github.com/bradi25/laraveltest.git laraveltest
 
